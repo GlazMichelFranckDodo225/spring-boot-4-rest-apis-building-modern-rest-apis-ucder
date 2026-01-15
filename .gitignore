@@ -1,0 +1,33 @@
+HELP.md
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/target/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.mvn/wrapper/maven-wrapper.jar
+!**/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/src/main/**/target/
+!**/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/src/test/**/target/
+
+### STS ###
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.apt_generated
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.classpath
+.factorypath
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.project
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.settings
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.springBeans
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.sts4-cache
+
+### IntelliJ IDEA ###
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.idea
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/*.iws
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/*.iml
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/*.ipr
+
+### NetBeans ###
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/nbproject/private/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/nbbuild/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/dist/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/nbdist/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/.nb-gradle/
+/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/build/
+!**/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/src/main/**/build/
+!**/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/src/test/**/build/
+
+### VS Code ###
+.vscode/spring-boot-4-rest-apis-building-modern-rest-apis-ucder/
